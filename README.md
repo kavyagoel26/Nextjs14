@@ -29,6 +29,23 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+
+##commands use in the my-app
+  1-  npx create-next-app@latest
+  2-  cd my-app
+  3-  npm run dev
+  4-  git init
+  5-  git status
+  6-  git add .
+  7-  git commit -m "first commit"
+  8-  git remote add origin https://github.com/kavyagoel26/Nextjs14.git
+  9-  git push -u origin kavya
+  10-  git push -u origin master
+  11-  touch Dockerfile
+  12-  docker build -t my-app .
+  13-  touch dockercompose.yml
+  14-  docker-compose up --build
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
